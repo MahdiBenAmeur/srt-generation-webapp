@@ -1,4 +1,4 @@
-# srt-generation-webapp
+#                                                                             srt-generation-webapp
 A web application that enables users to upload both an audio file and a corresponding text script. 
 The app transcribes the audio into an SRT (subtitle) file and then synchronizes the transcribed text with the script,
 ensuring accurate time codes and alignment between the spoken dialogue and the provided script.
