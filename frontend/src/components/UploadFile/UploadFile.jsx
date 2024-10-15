@@ -8,7 +8,7 @@ const UploadFile = () => {
   const [downloadlink, setdownloadlink] = useState(null);
   const [converting,setconverting] = useState(false);
   const [buttonName, setButtonName] = useState("Converting...");
-  const [maxNbWords, setmaxNbWords] = useState(0);
+  const [maxNbWords, setmaxNbWords] = useState(8);
     const handleChange = (event) => {
     setmaxNbWords(event.target.value);
     };
